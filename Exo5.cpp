@@ -62,12 +62,6 @@ void show_menu()
         case 1:
             balance = deposit(balance);
             break;
-        case 2:
-            balance = withdraw(balance);
-            break;
-        case 3:
-            check_balance(balance);
-            break;
         case 4:
             return;
 
