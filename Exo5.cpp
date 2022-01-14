@@ -59,8 +59,7 @@ void show_menu()
     {
         switch (option)
         {
-        case 1:
-            cout << "salut";
+
         case 4:
             return;
 
