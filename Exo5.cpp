@@ -61,6 +61,7 @@ void show_menu()
         {
         case 1:
             cout << "salut";
+            cout << "hehe";
         case 4:
             return;
 
