@@ -59,9 +59,6 @@ void show_menu()
     {
         switch (option)
         {
-        case 1:
-            balance = deposit(balance);
-            break;
         case 4:
             return;
 
